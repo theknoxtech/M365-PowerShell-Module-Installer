@@ -17,30 +17,9 @@ N/A.
 
 .OUTPUTS None. 
 
-.EXAMPLE PS> .\Update-Month.ps1 
+.EXAMPLE PS> .\Install-M365-Modules.ps1 
 
 #>
-
-
-#####
-## Script is currently in development and is not ready for production use.
-####
-
-# TODO
-# Update the script to use the latest version of the modules 
-
-# TODO 
-# Add error handling to the script
-
-# TODO
-# Add logging to the script
-
-# TODO
-# Add a progress bar to the script (optional)
-
-# TODO
-# Remove deprecated modules from the script
-
 
 
 #Function for the menu
